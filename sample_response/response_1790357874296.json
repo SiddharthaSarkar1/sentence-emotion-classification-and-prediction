@@ -1,0 +1,13 @@
+{
+  "text": "She smiled brightly when she won the game.",
+  "predicted_emotion": "joy",
+  "confidence": 0.9584230184555054,
+  "all_probabilites": {
+    "sadness": 0.002560736145824194,
+    "joy": 0.9584230184555054,
+    "love": 0.003652164712548256,
+    "anger": 0.031004803255200386,
+    "fear": 0.0023352440912276506,
+    "surprise": 0.0020239748992025852
+  }
+}

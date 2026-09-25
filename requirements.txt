@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+tensorflow-cpu>=2.20.0
+numpy
+h5py
